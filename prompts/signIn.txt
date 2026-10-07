@@ -1,0 +1,10 @@
+
+Following test case bellow after that create Playwright script:
+1. Navigate to a {{BASE_URL}}/sign-in page
+2. Enter data into the textbox below 'Email' label
+3. Enter data into the textbox below 'Password' label
+4. Tick on the 'Terms of Service' checkbox
+4. Click on the 'Sign in' button
+5. Click on the organization
+6. Verify that 'Dashboard' page is display
+7. Verify that show message 'Sign in is successfully, Welcome to Conative!'

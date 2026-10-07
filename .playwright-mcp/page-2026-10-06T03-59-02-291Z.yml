@@ -1,0 +1,712 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e166]:
+      - complementary [ref=e167]:
+        - generic [ref=e168]:
+          - generic [ref=e169]:
+            - button [ref=e1775] [cursor=pointer]
+            - button [ref=e1776] [cursor=pointer]
+          - generic [ref=e176]:
+            - generic [ref=e181]:
+              - link [ref=e1777] [cursor=pointer]:
+                - /url: /dashboard
+              - button [ref=e1778] [cursor=pointer]
+              - button [ref=e1779] [cursor=pointer]
+              - button [ref=e1780] [cursor=pointer]
+              - link [ref=e1781] [cursor=pointer]:
+                - /url: /ai-agents
+              - button [ref=e1782] [cursor=pointer]
+              - link [ref=e1783] [cursor=pointer]:
+                - /url: /custom-events
+              - link [ref=e1784] [cursor=pointer]:
+                - /url: /custom-reports
+              - link [ref=e1785] [cursor=pointer]:
+                - /url: /import
+            - generic [ref=e241]:
+              - button [ref=e1786] [cursor=pointer]
+              - link [ref=e1787] [cursor=pointer]:
+                - /url: /settings
+      - generic [ref=e257]:
+        - generic [ref=e259] [cursor=pointer]:
+          - generic [ref=e260]: CD
+          - generic [ref=e261]:
+            - paragraph [ref=e262]: CB/I DEV
+            - paragraph [ref=e263]: conative_new_melinda
+        - generic [ref=e266]:
+          - generic [ref=e270]:
+            - heading [level=1] [ref=e1788]: Purchase Orders
+            - generic [ref=e273]:
+              - generic [ref=e274]:
+                - generic [ref=e275]:
+                  - searchbox [ref=e1789]
+                  - button [ref=e1790] [cursor=pointer]:
+                    - generic [ref=e284]: Filter
+                    - generic [ref=e285]: "1"
+                - generic [ref=e290]:
+                  - button [ref=e1791] [cursor=pointer]: Import purchase orders
+                  - button [ref=e1792] [cursor=pointer]: Create purchase order
+              - generic [ref=e298]:
+                - table [ref=e302]:
+                  - rowgroup [ref=e303]:
+                    - row [ref=e1793]:
+                      - columnheader [ref=e1794]:
+                        - checkbox [ref=e1795] [cursor=pointer]
+                      - columnheader [ref=e1796]:
+                        - button [ref=e1797] [cursor=pointer]: PO ID
+                      - columnheader [ref=e1798]:
+                        - button [ref=e1799] [cursor=pointer]: PO NUMBER
+                      - columnheader [ref=e1800]:
+                        - button [ref=e1801] [cursor=pointer]: Vendor
+                      - columnheader [ref=e1802]:
+                        - button [ref=e1803] [cursor=pointer]: WAREHOUSE
+                      - columnheader [ref=e1804]:
+                        - button [ref=e1805] [cursor=pointer]: CREATED DATE
+                      - columnheader [ref=e1806]:
+                        - button [ref=e1807] [cursor=pointer]: EXPECTED ARRIVAL DATE
+                      - columnheader [ref=e1808]:
+                        - button [ref=e1809] [cursor=pointer]: STATUS
+                      - columnheader [ref=e1810]:
+                        - button [ref=e1811] [cursor=pointer]: RECEIVED STATUS
+                      - columnheader [ref=e1812]: Action
+                  - rowgroup [ref=e364]:
+                    - row [ref=e1813] [cursor=pointer]:
+                      - cell [ref=e1814]:
+                        - checkbox [ref=e1815]
+                      - cell [ref=e1816]:
+                        - generic [ref=e370]: C00200
+                      - cell [ref=e1817]:
+                        - generic [ref=e373]: test123a
+                      - cell [ref=e1818]:
+                        - generic [ref=e375]: Supplier_vt146
+                      - cell [ref=e1819]:
+                        - generic [ref=e377]: Retail Store
+                      - cell [ref=e1820]:
+                        - generic [ref=e379]: Sep 07, 2026
+                      - cell [ref=e1821]:
+                        - generic [ref=e382]: Sep 07, 2026
+                      - cell [ref=e1822]:
+                        - generic [ref=e385]: Draft
+                      - cell [ref=e1823]:
+                        - generic [ref=e388]: 0 of 201
+                      - cell [ref=e390]:
+                        - button [ref=e392]
+                    - row [ref=e1824] [cursor=pointer]:
+                      - cell [ref=e1825]:
+                        - checkbox [ref=e1826]
+                      - cell [ref=e1827]:
+                        - generic [ref=e399]: C00199
+                      - cell [ref=e1828]:
+                        - generic [ref=e402]: test
+                      - cell [ref=e1829]:
+                        - generic [ref=e404]: Supplier_vt146
+                      - cell [ref=e1830]:
+                        - generic [ref=e406]: Retail Store
+                      - cell [ref=e1831]:
+                        - generic [ref=e408]: Sep 04, 2026
+                      - cell [ref=e1832]:
+                        - generic [ref=e411]: Sep 06, 2026
+                      - cell [ref=e1833]:
+                        - generic [ref=e414]: Open
+                      - cell [ref=e1834]:
+                        - generic [ref=e417]: 0 of 200
+                      - cell [ref=e419]:
+                        - button [ref=e421]
+                    - row [ref=e1835] [cursor=pointer]:
+                      - cell [ref=e1836]:
+                        - checkbox [ref=e1837]
+                      - cell [ref=e1838]:
+                        - generic [ref=e428]: C00198
+                      - cell [ref=e1839]:
+                        - generic [ref=e431]: "123345"
+                      - cell [ref=e1840]:
+                        - generic [ref=e433]: Supplier_vt146
+                      - cell [ref=e1841]:
+                        - generic [ref=e435]: Retail Store
+                      - cell [ref=e1842]:
+                        - generic [ref=e437]: Aug 27, 2026
+                      - cell [ref=e1843]:
+                        - generic [ref=e440]: "-"
+                      - cell [ref=e1844]:
+                        - generic [ref=e442]: Open
+                      - cell [ref=e1845]:
+                        - generic [ref=e445]: 0 of 17
+                      - cell [ref=e447]:
+                        - button [ref=e449]
+                    - row [ref=e1846] [cursor=pointer]:
+                      - cell [ref=e1847]:
+                        - checkbox [ref=e1848]
+                      - cell [ref=e1849]:
+                        - generic [ref=e456]: C00197
+                      - cell [ref=e1850]:
+                        - generic [ref=e459]: "123"
+                      - cell [ref=e1851]:
+                        - generic [ref=e461]: Supplier_vt146
+                      - cell [ref=e1852]:
+                        - generic [ref=e463]: Retail Store
+                      - cell [ref=e1853]:
+                        - generic [ref=e465]: Aug 27, 2026
+                      - cell [ref=e1854]:
+                        - generic [ref=e468]: Aug 27, 2026
+                      - cell [ref=e1855]:
+                        - generic [ref=e471]: Pending approval
+                      - cell [ref=e1856]:
+                        - generic [ref=e474]: 0 of 5
+                      - cell [ref=e476]:
+                        - button [ref=e478]
+                    - row [ref=e1857] [cursor=pointer]:
+                      - cell [ref=e1858]:
+                        - checkbox [ref=e1859]
+                      - cell [ref=e1860]:
+                        - generic [ref=e485]: C00196
+                      - cell [ref=e1861]:
+                        - generic [ref=e488]: test browser QA
+                      - cell [ref=e1862]:
+                        - generic [ref=e490]: Supplier_vt146
+                      - cell [ref=e1863]:
+                        - generic [ref=e492]: Retail Store
+                      - cell [ref=e1864]:
+                        - generic [ref=e494]: Aug 27, 2026
+                      - cell [ref=e1865]:
+                        - generic [ref=e497]: Aug 27, 2026
+                      - cell [ref=e1866]:
+                        - generic [ref=e500]: Open
+                      - cell [ref=e1867]:
+                        - generic [ref=e503]: 0 of 8
+                      - cell [ref=e505]:
+                        - button [ref=e507]
+                    - row [ref=e1868] [cursor=pointer]:
+                      - cell [ref=e1869]:
+                        - checkbox [ref=e1870]
+                      - cell [ref=e1871]:
+                        - generic [ref=e514]: C00195
+                      - cell [ref=e1872]:
+                        - generic [ref=e517]: machiko
+                      - cell [ref=e1873]:
+                        - generic [ref=e519]: macktest
+                      - cell [ref=e1874]:
+                        - generic [ref=e521]: CBItest12342
+                      - cell [ref=e1875]:
+                        - generic [ref=e523]: Aug 27, 2026
+                      - cell [ref=e1876]:
+                        - generic [ref=e526]: "-"
+                      - cell [ref=e1877]:
+                        - generic [ref=e528]: Open
+                      - cell [ref=e1878]:
+                        - generic [ref=e531]: 0 of 10
+                      - cell [ref=e533]:
+                        - button [ref=e535]
+                    - row [ref=e1879] [cursor=pointer]:
+                      - cell [ref=e1880]:
+                        - checkbox [ref=e1881]
+                      - cell [ref=e1882]:
+                        - generic [ref=e542]: C00194
+                      - cell [ref=e1883]:
+                        - generic [ref=e545]: VN-004
+                      - cell [ref=e1884]:
+                        - generic [ref=e547]: CBITESTDI_01
+                      - cell [ref=e1885]:
+                        - generic [ref=e549]: CBItest12342
+                      - cell [ref=e1886]:
+                        - generic [ref=e551]: Aug 26, 2026
+                      - cell [ref=e1887]:
+                        - generic [ref=e554]: "-"
+                      - cell [ref=e1888]:
+                        - generic [ref=e556]: Partially Received
+                      - cell [ref=e1889]:
+                        - generic [ref=e559]: 2 of 3
+                      - cell [ref=e561]:
+                        - button [ref=e563]
+                    - row [ref=e1890] [cursor=pointer]:
+                      - cell [ref=e1891]:
+                        - checkbox [ref=e1892]
+                      - cell [ref=e1893]:
+                        - generic [ref=e570]: C00193
+                      - cell [ref=e1894]:
+                        - generic [ref=e573]: CBITEST 10
+                      - cell [ref=e1895]:
+                        - generic [ref=e575]: CBITESTDI_01
+                      - cell [ref=e1896]:
+                        - generic [ref=e577]: CBItest12342
+                      - cell [ref=e1897]:
+                        - generic [ref=e579]: Aug 26, 2026
+                      - cell [ref=e1898]:
+                        - generic [ref=e582]: "-"
+                      - cell [ref=e1899]:
+                        - generic [ref=e584]: Received
+                      - cell [ref=e1900]:
+                        - generic [ref=e587]: 4 of 2
+                      - cell [ref=e589]:
+                        - button [ref=e591]
+                    - row [ref=e1901] [cursor=pointer]:
+                      - cell [ref=e1902]:
+                        - checkbox [ref=e1903]
+                      - cell [ref=e1904]:
+                        - generic [ref=e598]: C00192
+                      - cell [ref=e1905]:
+                        - generic [ref=e601]: CBITEST / 01
+                      - cell [ref=e1906]:
+                        - generic [ref=e603]: CBITESTDI_01
+                      - cell [ref=e1907]:
+                        - generic [ref=e605]: CBItest12342
+                      - cell [ref=e1908]:
+                        - generic [ref=e607]: Aug 26, 2026
+                      - cell [ref=e1909]:
+                        - generic [ref=e610]: "-"
+                      - cell [ref=e1910]:
+                        - generic [ref=e612]: Open
+                      - cell [ref=e1911]:
+                        - generic [ref=e615]: 0 of 1
+                      - cell [ref=e617]:
+                        - button [ref=e619]
+                    - row [ref=e1912] [cursor=pointer]:
+                      - cell [ref=e1913]:
+                        - checkbox [ref=e1914]
+                      - cell [ref=e1915]:
+                        - generic [ref=e626]: C00191
+                      - cell [ref=e1916]:
+                        - generic [ref=e629]: CBITEST / 123
+                      - cell [ref=e1917]:
+                        - generic [ref=e631]: CBITESTDI_01
+                      - cell [ref=e1918]:
+                        - generic [ref=e633]: CBItest12342
+                      - cell [ref=e1919]:
+                        - generic [ref=e635]: Aug 26, 2026
+                      - cell [ref=e1920]:
+                        - generic [ref=e638]: Oct 10, 2026
+                      - cell [ref=e1921]:
+                        - generic [ref=e641]: Canceled
+                      - cell [ref=e1922]:
+                        - generic [ref=e644]: 0 of 1
+                      - cell [ref=e646]:
+                        - button [ref=e648]
+                    - row [ref=e1923] [cursor=pointer]:
+                      - cell [ref=e1924]:
+                        - checkbox [ref=e1925]
+                      - cell [ref=e1926]:
+                        - generic [ref=e655]: C00190
+                      - cell [ref=e1927]:
+                        - generic [ref=e658]: CBITEST 03 01 /\!~#$%^&*()
+                      - cell [ref=e1928]:
+                        - generic [ref=e660]: CBITESTDI_01
+                      - cell [ref=e1929]:
+                        - generic [ref=e662]: CBItest12342
+                      - cell [ref=e1930]:
+                        - generic [ref=e664]: Aug 26, 2026
+                      - cell [ref=e1931]:
+                        - generic [ref=e667]: Oct 10, 2026
+                      - cell [ref=e1932]:
+                        - generic [ref=e670]: Closed
+                      - cell [ref=e1933]:
+                        - generic [ref=e673]: 1 of 1
+                      - cell [ref=e675]:
+                        - button [ref=e677]
+                    - row [ref=e1934] [cursor=pointer]:
+                      - cell [ref=e1935]:
+                        - checkbox [ref=e1936]
+                      - cell [ref=e1937]:
+                        - generic [ref=e684]: C00189
+                      - cell [ref=e1938]:
+                        - generic [ref=e687]: CBITET/01
+                      - cell [ref=e1939]:
+                        - generic [ref=e689]: CBITESTDI_01
+                      - cell [ref=e1940]:
+                        - generic [ref=e691]: CBItest12342
+                      - cell [ref=e1941]:
+                        - generic [ref=e693]: Aug 26, 2026
+                      - cell [ref=e1942]:
+                        - generic [ref=e696]: Oct 10, 2026
+                      - cell [ref=e1943]:
+                        - generic [ref=e699]: Open
+                      - cell [ref=e1944]:
+                        - generic [ref=e702]: 0 of 1
+                      - cell [ref=e704]:
+                        - button [ref=e706]
+                    - row [ref=e1945] [cursor=pointer]:
+                      - cell [ref=e1946]:
+                        - checkbox [ref=e1947]
+                      - cell [ref=e1948]:
+                        - generic [ref=e713]: C00188
+                      - cell [ref=e1949]:
+                        - generic [ref=e716]: CBITEST123
+                      - cell [ref=e1950]:
+                        - generic [ref=e718]: CBITESTDI_01
+                      - cell [ref=e1951]:
+                        - generic [ref=e720]: CBItest12342
+                      - cell [ref=e1952]:
+                        - generic [ref=e722]: Aug 26, 2026
+                      - cell [ref=e1953]:
+                        - generic [ref=e725]: Oct 10, 2026
+                      - cell [ref=e1954]:
+                        - generic [ref=e728]: Open
+                      - cell [ref=e1955]:
+                        - generic [ref=e731]: 0 of 1
+                      - cell [ref=e733]:
+                        - button [ref=e735]
+                    - row [ref=e1956] [cursor=pointer]:
+                      - cell [ref=e1957]:
+                        - checkbox [ref=e1958]
+                      - cell [ref=e1959]:
+                        - generic [ref=e742]: C00187
+                      - cell [ref=e1960]:
+                        - generic [ref=e745]: "CBITEST_01\\n.,123`\\=-98.,/.,,~!@#$$%%^^&&***(((())"
+                      - cell [ref=e1961]:
+                        - generic [ref=e747]: CBITESTDI_01
+                      - cell [ref=e1962]:
+                        - generic [ref=e749]: 9820 Irvine Center Drive
+                      - cell [ref=e1963]:
+                        - generic [ref=e751]: Aug 26, 2026
+                      - cell [ref=e1964]:
+                        - generic [ref=e754]: Oct 10, 2026
+                      - cell [ref=e1965]:
+                        - generic [ref=e757]: Canceled
+                      - cell [ref=e1966]:
+                        - generic [ref=e760]: 0 of 1
+                      - cell [ref=e762]:
+                        - button [ref=e764]
+                    - row [ref=e1967] [cursor=pointer]:
+                      - cell [ref=e1968]:
+                        - checkbox [ref=e1969]
+                      - cell [ref=e1970]:
+                        - generic [ref=e771]: C00186
+                      - cell [ref=e1971]:
+                        - generic [ref=e774]: test
+                      - cell [ref=e1972]:
+                        - generic [ref=e776]: Supplier_vt146
+                      - cell [ref=e1973]:
+                        - generic [ref=e778]: Retail Store
+                      - cell [ref=e1974]:
+                        - generic [ref=e780]: Aug 19, 2026
+                      - cell [ref=e1975]:
+                        - generic [ref=e783]: Aug 19, 2026
+                      - cell [ref=e1976]:
+                        - generic [ref=e786]: Draft
+                      - cell [ref=e1977]:
+                        - generic [ref=e789]: 0 of 23312
+                      - cell [ref=e791]:
+                        - button [ref=e793]
+                    - row [ref=e1978] [cursor=pointer]:
+                      - cell [ref=e1979]:
+                        - checkbox [ref=e1980]
+                      - cell [ref=e1981]:
+                        - generic [ref=e800]: C00185
+                      - cell [ref=e1982]:
+                        - generic [ref=e803]: test1
+                      - cell [ref=e1983]:
+                        - generic [ref=e805]: Supplier_vt146
+                      - cell [ref=e1984]:
+                        - generic [ref=e807]: Retail Store
+                      - cell [ref=e1985]:
+                        - generic [ref=e809]: Aug 19, 2026
+                      - cell [ref=e1986]:
+                        - generic [ref=e812]: Sep 18, 2026
+                      - cell [ref=e1987]:
+                        - generic [ref=e815]: Draft
+                      - cell [ref=e1988]:
+                        - generic [ref=e818]: 0 of 1
+                      - cell [ref=e820]:
+                        - button [ref=e822]
+                    - row [ref=e1989] [cursor=pointer]:
+                      - cell [ref=e1990]:
+                        - checkbox [ref=e1991]
+                      - cell [ref=e1992]:
+                        - generic [ref=e829]: C00184
+                      - cell [ref=e1993]:
+                        - generic [ref=e832]: test
+                      - cell [ref=e1994]:
+                        - generic [ref=e834]: Supplier_vt146
+                      - cell [ref=e1995]:
+                        - generic [ref=e836]: Retail Store
+                      - cell [ref=e1996]:
+                        - generic [ref=e838]: Aug 19, 2026
+                      - cell [ref=e1997]:
+                        - generic [ref=e841]: Sep 18, 2026
+                      - cell [ref=e1998]:
+                        - generic [ref=e844]: Draft
+                      - cell [ref=e1999]:
+                        - generic [ref=e847]: 0 of 1
+                      - cell [ref=e849]:
+                        - button [ref=e851]
+                    - row [ref=e2000] [cursor=pointer]:
+                      - cell [ref=e2001]:
+                        - checkbox [ref=e2002]
+                      - cell [ref=e2003]:
+                        - generic [ref=e858]: C00183
+                      - cell [ref=e2004]:
+                        - generic [ref=e861]: CBITESTDP107
+                      - cell [ref=e2005]:
+                        - generic [ref=e863]: KESHEEN
+                      - cell [ref=e2006]:
+                        - generic [ref=e865]: Melinda Maria
+                      - cell [ref=e2007]:
+                        - generic [ref=e867]: Aug 11, 2026
+                      - cell [ref=e2008]:
+                        - generic [ref=e870]: Aug 12, 2026
+                      - cell [ref=e2009]:
+                        - generic [ref=e873]: Closed
+                      - cell [ref=e2010]:
+                        - generic [ref=e876]: 14 of 15
+                      - cell [ref=e878]:
+                        - button [ref=e880]
+                    - row [ref=e2011] [cursor=pointer]:
+                      - cell [ref=e2012]:
+                        - checkbox [ref=e2013]
+                      - cell [ref=e2014]:
+                        - generic [ref=e887]: C00182
+                      - cell [ref=e2015]:
+                        - generic [ref=e890]: CBITESTDP106
+                      - cell [ref=e2016]:
+                        - generic [ref=e892]: KESHEEN
+                      - cell [ref=e2017]:
+                        - generic [ref=e894]: Melinda Maria
+                      - cell [ref=e2018]:
+                        - generic [ref=e896]: Aug 11, 2026
+                      - cell [ref=e2019]:
+                        - generic [ref=e899]: "-"
+                      - cell [ref=e2020]:
+                        - generic [ref=e901]: Closed
+                      - cell [ref=e2021]:
+                        - generic [ref=e904]: 17 of 15
+                      - cell [ref=e906]:
+                        - button [ref=e908]
+                    - row [ref=e2022] [cursor=pointer]:
+                      - cell [ref=e2023]:
+                        - checkbox [ref=e2024]
+                      - cell [ref=e2025]:
+                        - generic [ref=e915]: C00181
+                      - cell [ref=e2026]:
+                        - generic [ref=e918]: CBITESTDP105
+                      - cell [ref=e2027]:
+                        - generic [ref=e920]: KESHEEN
+                      - cell [ref=e2028]:
+                        - generic [ref=e922]: Melinda Maria
+                      - cell [ref=e2029]:
+                        - generic [ref=e924]: Aug 10, 2026
+                      - cell [ref=e2030]:
+                        - generic [ref=e927]: "-"
+                      - cell [ref=e2031]:
+                        - generic [ref=e929]: Closed
+                      - cell [ref=e2032]:
+                        - generic [ref=e932]: 13 of 16
+                      - cell [ref=e934]:
+                        - button [ref=e936]
+                    - row [ref=e2033] [cursor=pointer]:
+                      - cell [ref=e2034]:
+                        - checkbox [ref=e2035]
+                      - cell [ref=e2036]:
+                        - generic [ref=e943]: C00180
+                      - cell [ref=e2037]:
+                        - generic [ref=e946]: CBITESTDP104
+                      - cell [ref=e2038]:
+                        - generic [ref=e948]: KESHEEN
+                      - cell [ref=e2039]:
+                        - generic [ref=e950]: Melinda Maria
+                      - cell [ref=e2040]:
+                        - generic [ref=e952]: Aug 10, 2026
+                      - cell [ref=e2041]:
+                        - generic [ref=e955]: "-"
+                      - cell [ref=e2042]:
+                        - generic [ref=e957]: Closed
+                      - cell [ref=e2043]:
+                        - generic [ref=e960]: 17 of 12
+                      - cell [ref=e962]:
+                        - button [ref=e964]
+                - generic [ref=e972]:
+                  - generic [ref=e973]: Showing 100 of 124 results
+                  - button [ref=e2044] [cursor=pointer]
+          - generic [ref=e977] [cursor=pointer]: 👋 Hi there, I’m Connie!
+          - generic [ref=e980]:
+            - generic [ref=e985]:
+              - generic [ref=e987]:
+                - generic [ref=e988] [cursor=pointer]
+                - generic [ref=e991] [cursor=pointer]: CONNIE
+              - generic [ref=e995]:
+                - button [ref=e996] [cursor=pointer]
+                - button [ref=e1002] [cursor=pointer]
+                - button [ref=e1008] [cursor=pointer]
+                - button [ref=e1012] [cursor=pointer]
+                - button [ref=e1017] [cursor=pointer]
+            - generic [ref=e1022]:
+              - generic [ref=e1027]:
+                - generic [ref=e1028]:
+                  - generic [ref=e1031]: ASK CONNIE
+                  - generic [ref=e1032]: Quickly get data insights and better understand your e-commerce performance from your connected sources
+                - generic [ref=e1034]:
+                  - generic [ref=e1035]: AI Agents
+                  - generic [ref=e1039]: Buying Agent
+                  - generic [ref=e1044]: Analyst Agent
+              - generic [ref=e1049]:
+                - generic [ref=e1051]:
+                  - textbox [ref=e2045]:
+                    - /placeholder: What do you want to know today?
+                  - generic [ref=e1057] [cursor=pointer]
+                - generic [ref=e1062]: Answers are AI-generated. Please double-check important information.
+    - region "Notifications alt+T"
+  - alert [ref=e43]: Purchase Orders - Conative
+  - dialog [active] [ref=e2047]:
+    - generic [ref=e2049]:
+      - heading "#test123a Draft" [level=2] [ref=e2050]:
+        - text: "#test123a"
+        - generic [ref=e2051]: Draft
+      - paragraph [ref=e2052]: Created via Conative
+      - button "Reference" [ref=e2053] [cursor=pointer]
+    - generic [ref=e2057]:
+      - generic [ref=e2062]:
+        - generic [ref=e2063]:
+          - generic [ref=e2065]:
+            - generic [ref=e2066]:
+              - text: PO Number
+              - generic [ref=e2067]: "*"
+            - generic [ref=e2068]:
+              - textbox "PO Number *" [disabled]:
+                - /placeholder: Enter PO number
+                - text: test123a
+          - generic [ref=e2070]:
+            - generic [ref=e2071]:
+              - text: Vendor
+              - generic [ref=e2072]: "*"
+            - combobox "Vendor *" [disabled] [ref=e2073]:
+              - generic [ref=e2074]: Supplier_vt146
+              - generic [ref=e2078]: Loading
+          - generic [ref=e2080]:
+            - generic [ref=e2081]: Expected arrival date
+            - button "Expected arrival date" [ref=e2082] [cursor=pointer]: Sep 07, 2026
+          - generic [ref=e2087]:
+            - generic [ref=e2088]:
+              - text: Warehouse
+              - generic [ref=e2089]: "*"
+            - combobox "Warehouse *" [disabled] [ref=e2090]:
+              - generic [ref=e2091]: Retail Store
+              - generic [ref=e2095]: Loading
+          - generic [ref=e2097]:
+            - generic [ref=e2098]: Created date
+            - generic [ref=e2099]:
+              - textbox "Created date" [disabled]: Sep 07, 2026
+        - generic [ref=e2100]:
+          - tablist [ref=e2101]:
+            - tab "Order Items" [selected] [ref=e2102] [cursor=pointer]
+          - tabpanel "Order Items" [ref=e2103]:
+            - generic [ref=e2104]:
+              - generic [ref=e2105]:
+                - generic [ref=e2106]:
+                  - searchbox "Search for Title, SKU" [ref=e2113]
+                  - generic [ref=e2114]:
+                    - button "Download CSV" [ref=e2115] [cursor=pointer]
+                    - button "Download PDF" [ref=e2119] [cursor=pointer]
+                    - button "Add item" [ref=e2123] [cursor=pointer]
+                    - button "Receive items" [ref=e2126] [cursor=pointer]
+                - table [ref=e2133]:
+                  - rowgroup [ref=e2134]:
+                    - row [ref=e2135]:
+                      - columnheader [ref=e2137]
+                      - columnheader [ref=e2139]
+                      - columnheader [ref=e2141]
+                      - columnheader [ref=e2143]
+                      - columnheader [ref=e2145]
+                      - columnheader [ref=e2147]
+                      - columnheader [ref=e2149]
+                      - columnheader [ref=e2151]
+                      - columnheader [ref=e2153]
+                      - columnheader [ref=e2155]
+                  - rowgroup [ref=e2157]:
+                    - row [ref=e2158]:
+                      - cell [ref=e2160]
+                      - cell [ref=e2162]
+                      - cell [ref=e2164]
+                      - cell [ref=e2166]
+                      - cell [ref=e2168]
+                      - cell [ref=e2170]
+                      - cell [ref=e2172]
+                      - cell [ref=e2174]
+                      - cell [ref=e2176]
+                      - cell [ref=e2178]
+                    - row [ref=e2180]:
+                      - cell [ref=e2182]
+                      - cell [ref=e2184]
+                      - cell [ref=e2186]
+                      - cell [ref=e2188]
+                      - cell [ref=e2190]
+                      - cell [ref=e2192]
+                      - cell [ref=e2194]
+                      - cell [ref=e2196]
+                      - cell [ref=e2198]
+                      - cell [ref=e2200]
+                    - row [ref=e2202]:
+                      - cell [ref=e2204]
+                      - cell [ref=e2206]
+                      - cell [ref=e2208]
+                      - cell [ref=e2210]
+                      - cell [ref=e2212]
+                      - cell [ref=e2214]
+                      - cell [ref=e2216]
+                      - cell [ref=e2218]
+                      - cell [ref=e2220]
+                      - cell [ref=e2222]
+                    - row [ref=e2224]:
+                      - cell [ref=e2226]
+                      - cell [ref=e2228]
+                      - cell [ref=e2230]
+                      - cell [ref=e2232]
+                      - cell [ref=e2234]
+                      - cell [ref=e2236]
+                      - cell [ref=e2238]
+                      - cell [ref=e2240]
+                      - cell [ref=e2242]
+                      - cell [ref=e2244]
+                    - row [ref=e2246]:
+                      - cell [ref=e2248]
+                      - cell [ref=e2250]
+                      - cell [ref=e2252]
+                      - cell [ref=e2254]
+                      - cell [ref=e2256]
+                      - cell [ref=e2258]
+                      - cell [ref=e2260]
+                      - cell [ref=e2262]
+                      - cell [ref=e2264]
+                      - cell [ref=e2266]
+                    - row [ref=e2268]:
+                      - cell [ref=e2270]
+                      - cell [ref=e2272]
+                      - cell [ref=e2274]
+                      - cell [ref=e2276]
+                      - cell [ref=e2278]
+                      - cell [ref=e2280]
+                      - cell [ref=e2282]
+                      - cell [ref=e2284]
+                      - cell [ref=e2286]
+                      - cell [ref=e2288]
+                    - row [ref=e2290]:
+                      - cell [ref=e2292]
+                      - cell [ref=e2294]
+                      - cell [ref=e2296]
+                      - cell [ref=e2298]
+                      - cell [ref=e2300]
+                      - cell [ref=e2302]
+                      - cell [ref=e2304]
+                      - cell [ref=e2306]
+                      - cell [ref=e2308]
+                      - cell [ref=e2310]
+              - generic [ref=e2313]:
+                - generic [ref=e2315]:
+                  - generic [ref=e2316]: Note for PO
+                  - textbox "Note for PO" [ref=e2318]:
+                    - /placeholder: Type here
+                - generic [ref=e2320]:
+                  - generic [ref=e2321]: Attachments
+                  - generic [ref=e2322] [cursor=pointer]:
+                    - button "Attachments Drag and dropfiles, or click to upload pdf, docx, xlsx, png, jpg(max 5MB)" [ref=e2323]
+                    - generic [ref=e2329]:
+                      - generic [ref=e2330]: Drag and dropfiles, or click to upload
+                      - generic [ref=e2331]:
+                        - generic [ref=e2332]: pdf,
+                        - generic [ref=e2333]: docx,
+                        - generic [ref=e2334]: xlsx,
+                        - generic [ref=e2335]: png,
+                        - text: jpg
+                        - generic [ref=e2336]: (max 5MB)
+      - generic [ref=e2339]:
+        - button "Back" [ref=e2340] [cursor=pointer]
+        - button "Cancel PO" [ref=e2341] [cursor=pointer]
+        - button "Create PO" [ref=e2342] [cursor=pointer]
+        - button "Request approval" [ref=e2343] [cursor=pointer]
+        - button "Save Changes" [disabled]
+    - button "Close" [ref=e2344] [cursor=pointer]

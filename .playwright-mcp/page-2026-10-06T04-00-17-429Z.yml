@@ -1,0 +1,375 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e166]:
+      - complementary [ref=e167]:
+        - generic [ref=e168]:
+          - generic [ref=e169]:
+            - button "Go to dashboard" [ref=e5792] [cursor=pointer]
+            - button "Expand menu" [ref=e5793] [cursor=pointer]
+          - generic [ref=e176]:
+            - generic [ref=e181]:
+              - link "Dashboard" [ref=e5794] [cursor=pointer]:
+                - /url: /dashboard
+              - button "Product Analytics" [ref=e5795] [cursor=pointer]
+              - button "Inventory Buying" [ref=e5796] [cursor=pointer]
+              - button "Inventory Control" [ref=e5797] [cursor=pointer]
+              - link "AI Agents" [ref=e5798] [cursor=pointer]:
+                - /url: /ai-agents
+              - button "Inventory Planning" [ref=e5799] [cursor=pointer]
+              - link "Custom Events" [ref=e5800] [cursor=pointer]:
+                - /url: /custom-events
+              - link "Custom Report" [ref=e5801] [cursor=pointer]:
+                - /url: /custom-reports
+              - link "Data Import" [ref=e5802] [cursor=pointer]:
+                - /url: /import
+            - generic [ref=e241]:
+              - button "Data Management" [ref=e5803] [cursor=pointer]
+              - link "Settings" [ref=e5804] [cursor=pointer]:
+                - /url: /settings
+      - generic [ref=e257]:
+        - generic [ref=e259] [cursor=pointer]:
+          - generic [ref=e260]: CD
+          - generic [ref=e261]:
+            - paragraph [ref=e262]: CB/I DEV
+            - paragraph [ref=e263]: conative_new_melinda
+        - generic [ref=e266]:
+          - generic [ref=e270]:
+            - heading "Purchase Orders" [level=1] [ref=e5805]
+            - generic [ref=e273]:
+              - generic [ref=e274]:
+                - generic [ref=e275]:
+                  - searchbox "Search POs, vendors, or warehouses" [active] [ref=e5806]
+                  - button "Filter 1" [ref=e5807] [cursor=pointer]:
+                    - generic [ref=e284]: Filter
+                    - generic [ref=e285]: "1"
+                - generic [ref=e290]:
+                  - button "Import purchase orders" [ref=e5808] [cursor=pointer]
+                  - button "Create purchase order" [ref=e5809] [cursor=pointer]
+              - generic [ref=e298]:
+                - table [ref=e302]:
+                  - rowgroup [ref=e303]:
+                    - row [ref=e5810]:
+                      - columnheader [ref=e5811]:
+                        - checkbox "Select all" [ref=e5812] [cursor=pointer]
+                      - columnheader [ref=e5813]:
+                        - button [ref=e5814] [cursor=pointer]
+                      - columnheader [ref=e5815]:
+                        - button [ref=e5816] [cursor=pointer]
+                      - columnheader [ref=e5817]:
+                        - button [ref=e5818] [cursor=pointer]
+                      - columnheader [ref=e5819]:
+                        - button [ref=e5820] [cursor=pointer]
+                      - columnheader [ref=e5821]:
+                        - button [ref=e5822] [cursor=pointer]
+                      - columnheader [ref=e5823]:
+                        - button [ref=e5824] [cursor=pointer]
+                      - columnheader [ref=e5825]:
+                        - button [ref=e5826] [cursor=pointer]
+                      - columnheader [ref=e5827]:
+                        - button [ref=e5828] [cursor=pointer]
+                      - columnheader "Action" [ref=e5829]
+                  - rowgroup [ref=e6097]:
+                    - row [ref=e6099] [cursor=pointer]:
+                      - cell [ref=e6100]:
+                        - checkbox "Select row" [ref=e6101]
+                      - cell "C00200" [ref=e6102]
+                      - cell "test123a" [ref=e6105]
+                      - cell "Supplier_vt146" [ref=e6107]
+                      - cell "Retail Store" [ref=e6109]
+                      - cell "Sep 07, 2026" [ref=e6111]
+                      - cell "Sep 07, 2026" [ref=e6114]
+                      - cell "Draft" [ref=e6117]
+                      - cell "0 of 201" [ref=e6120]
+                      - cell [ref=e6123]:
+                        - button [ref=e6125]
+                    - row [ref=e6128] [cursor=pointer]:
+                      - cell [ref=e6129]:
+                        - checkbox "Select row" [ref=e6130]
+                      - cell "C00199" [ref=e6131]
+                      - cell "test" [ref=e6134]
+                      - cell "Supplier_vt146" [ref=e6136]
+                      - cell "Retail Store" [ref=e6138]
+                      - cell "Sep 04, 2026" [ref=e6140]
+                      - cell "Sep 06, 2026" [ref=e6143]
+                      - cell "Open" [ref=e6146]
+                      - cell "0 of 200" [ref=e6149]
+                      - cell [ref=e6152]:
+                        - button [ref=e6154]
+                    - row [ref=e6157] [cursor=pointer]:
+                      - cell [ref=e6158]:
+                        - checkbox "Select row" [ref=e6159]
+                      - cell "C00198" [ref=e6160]
+                      - cell "123345" [ref=e6163]
+                      - cell "Supplier_vt146" [ref=e6165]
+                      - cell "Retail Store" [ref=e6167]
+                      - cell "Aug 27, 2026" [ref=e6169]
+                      - cell "-" [ref=e6172]
+                      - cell "Open" [ref=e6174]
+                      - cell "0 of 17" [ref=e6177]
+                      - cell [ref=e6180]:
+                        - button [ref=e6182]
+                    - row [ref=e6185] [cursor=pointer]:
+                      - cell [ref=e6186]:
+                        - checkbox "Select row" [ref=e6187]
+                      - cell "C00197" [ref=e6188]
+                      - cell "123" [ref=e6191]
+                      - cell "Supplier_vt146" [ref=e6193]
+                      - cell "Retail Store" [ref=e6195]
+                      - cell "Aug 27, 2026" [ref=e6197]
+                      - cell "Aug 27, 2026" [ref=e6200]
+                      - cell "Pending approval" [ref=e6203]
+                      - cell "0 of 5" [ref=e6206]
+                      - cell [ref=e6209]:
+                        - button [ref=e6211]
+                    - row [ref=e6214] [cursor=pointer]:
+                      - cell [ref=e6215]:
+                        - checkbox "Select row" [ref=e6216]
+                      - cell "C00196" [ref=e6217]
+                      - cell "test browser QA" [ref=e6220]
+                      - cell "Supplier_vt146" [ref=e6222]
+                      - cell "Retail Store" [ref=e6224]
+                      - cell "Aug 27, 2026" [ref=e6226]
+                      - cell "Aug 27, 2026" [ref=e6229]
+                      - cell "Open" [ref=e6232]
+                      - cell "0 of 8" [ref=e6235]
+                      - cell [ref=e6238]:
+                        - button [ref=e6240]
+                    - row [ref=e6243] [cursor=pointer]:
+                      - cell [ref=e6244]:
+                        - checkbox "Select row" [ref=e6245]
+                      - cell "C00195" [ref=e6246]
+                      - cell "machiko" [ref=e6249]
+                      - cell "macktest" [ref=e6251]
+                      - cell "CBItest12342" [ref=e6253]
+                      - cell "Aug 27, 2026" [ref=e6255]
+                      - cell "-" [ref=e6258]
+                      - cell "Open" [ref=e6260]
+                      - cell "0 of 10" [ref=e6263]
+                      - cell [ref=e6266]:
+                        - button [ref=e6268]
+                    - row [ref=e6271] [cursor=pointer]:
+                      - cell [ref=e6272]:
+                        - checkbox "Select row" [ref=e6273]
+                      - cell "C00194" [ref=e6274]
+                      - cell "VN-004" [ref=e6277]
+                      - cell "CBITESTDI_01" [ref=e6279]
+                      - cell "CBItest12342" [ref=e6281]
+                      - cell "Aug 26, 2026" [ref=e6283]
+                      - cell "-" [ref=e6286]
+                      - cell "Partially Received" [ref=e6288]
+                      - cell "2 of 3" [ref=e6291]
+                      - cell [ref=e6294]:
+                        - button [ref=e6296]
+                    - row [ref=e6299] [cursor=pointer]:
+                      - cell [ref=e6300]:
+                        - checkbox "Select row" [ref=e6301]
+                      - cell "C00193" [ref=e6302]
+                      - cell "CBITEST 10" [ref=e6305]
+                      - cell "CBITESTDI_01" [ref=e6307]
+                      - cell "CBItest12342" [ref=e6309]
+                      - cell "Aug 26, 2026" [ref=e6311]
+                      - cell "-" [ref=e6314]
+                      - cell "Received" [ref=e6316]
+                      - cell "4 of 2" [ref=e6319]
+                      - cell [ref=e6322]:
+                        - button [ref=e6324]
+                    - row [ref=e6327] [cursor=pointer]:
+                      - cell [ref=e6328]:
+                        - checkbox "Select row" [ref=e6329]
+                      - cell "C00192" [ref=e6330]
+                      - cell "CBITEST / 01" [ref=e6333]
+                      - cell "CBITESTDI_01" [ref=e6335]
+                      - cell "CBItest12342" [ref=e6337]
+                      - cell "Aug 26, 2026" [ref=e6339]
+                      - cell "-" [ref=e6342]
+                      - cell "Open" [ref=e6344]
+                      - cell "0 of 1" [ref=e6347]
+                      - cell [ref=e6350]:
+                        - button [ref=e6352]
+                    - row [ref=e6355] [cursor=pointer]:
+                      - cell [ref=e6356]:
+                        - checkbox "Select row" [ref=e6357]
+                      - cell "C00191" [ref=e6358]
+                      - cell "CBITEST / 123" [ref=e6361]
+                      - cell "CBITESTDI_01" [ref=e6363]
+                      - cell "CBItest12342" [ref=e6365]
+                      - cell "Aug 26, 2026" [ref=e6367]
+                      - cell "Oct 10, 2026" [ref=e6370]
+                      - cell "Canceled" [ref=e6373]
+                      - cell "0 of 1" [ref=e6376]
+                      - cell [ref=e6379]:
+                        - button [ref=e6381]
+                    - row [ref=e6384] [cursor=pointer]:
+                      - cell [ref=e6385]:
+                        - checkbox "Select row" [ref=e6386]
+                      - cell "C00190" [ref=e6387]
+                      - cell "CBITEST 03 01 /\\!~#$%^&*()" [ref=e6390]
+                      - cell "CBITESTDI_01" [ref=e6392]
+                      - cell "CBItest12342" [ref=e6394]
+                      - cell "Aug 26, 2026" [ref=e6396]
+                      - cell "Oct 10, 2026" [ref=e6399]
+                      - cell "Closed" [ref=e6402]
+                      - cell "1 of 1" [ref=e6405]
+                      - cell [ref=e6408]:
+                        - button [ref=e6410]
+                    - row [ref=e6413] [cursor=pointer]:
+                      - cell [ref=e6414]:
+                        - checkbox "Select row" [ref=e6415]
+                      - cell "C00189" [ref=e6416]
+                      - cell "CBITET/01" [ref=e6419]
+                      - cell "CBITESTDI_01" [ref=e6421]
+                      - cell "CBItest12342" [ref=e6423]
+                      - cell "Aug 26, 2026" [ref=e6425]
+                      - cell "Oct 10, 2026" [ref=e6428]
+                      - cell "Open" [ref=e6431]
+                      - cell "0 of 1" [ref=e6434]
+                      - cell [ref=e6437]:
+                        - button [ref=e6439]
+                    - row [ref=e6442] [cursor=pointer]:
+                      - cell [ref=e6443]:
+                        - checkbox "Select row" [ref=e6444]
+                      - cell "C00188" [ref=e6445]
+                      - cell "CBITEST123" [ref=e6448]
+                      - cell "CBITESTDI_01" [ref=e6450]
+                      - cell "CBItest12342" [ref=e6452]
+                      - cell "Aug 26, 2026" [ref=e6454]
+                      - cell "Oct 10, 2026" [ref=e6457]
+                      - cell "Open" [ref=e6460]
+                      - cell "0 of 1" [ref=e6463]
+                      - cell [ref=e6466]:
+                        - button [ref=e6468]
+                    - row [ref=e6471] [cursor=pointer]:
+                      - cell [ref=e6472]:
+                        - checkbox "Select row" [ref=e6473]
+                      - cell "C00187" [ref=e6474]
+                      - 'cell "CBITEST_01\\n.,123`\\=-98.,/.,,~!@#$$%%^^&&***(((())" [ref=e6477]'
+                      - cell "CBITESTDI_01" [ref=e6479]
+                      - cell "9820 Irvine Center Drive" [ref=e6481]
+                      - cell "Aug 26, 2026" [ref=e6483]
+                      - cell "Oct 10, 2026" [ref=e6486]
+                      - cell "Canceled" [ref=e6489]
+                      - cell "0 of 1" [ref=e6492]
+                      - cell [ref=e6495]:
+                        - button [ref=e6497]
+                    - row [ref=e6500] [cursor=pointer]:
+                      - cell [ref=e6501]:
+                        - checkbox "Select row" [ref=e6502]
+                      - cell "C00186" [ref=e6503]
+                      - cell "test" [ref=e6506]
+                      - cell "Supplier_vt146" [ref=e6508]
+                      - cell "Retail Store" [ref=e6510]
+                      - cell "Aug 19, 2026" [ref=e6512]
+                      - cell "Aug 19, 2026" [ref=e6515]
+                      - cell "Draft" [ref=e6518]
+                      - cell "0 of 23312" [ref=e6521]
+                      - cell [ref=e6524]:
+                        - button [ref=e6526]
+                    - row [ref=e6529] [cursor=pointer]:
+                      - cell [ref=e6530]:
+                        - checkbox "Select row" [ref=e6531]
+                      - cell "C00185" [ref=e6532]
+                      - cell "test1" [ref=e6535]
+                      - cell "Supplier_vt146" [ref=e6537]
+                      - cell "Retail Store" [ref=e6539]
+                      - cell "Aug 19, 2026" [ref=e6541]
+                      - cell "Sep 18, 2026" [ref=e6544]
+                      - cell "Draft" [ref=e6547]
+                      - cell "0 of 1" [ref=e6550]
+                      - cell [ref=e6553]:
+                        - button [ref=e6555]
+                    - row [ref=e6558] [cursor=pointer]:
+                      - cell [ref=e6559]:
+                        - checkbox "Select row" [ref=e6560]
+                      - cell "C00184" [ref=e6561]
+                      - cell "test" [ref=e6564]
+                      - cell "Supplier_vt146" [ref=e6566]
+                      - cell "Retail Store" [ref=e6568]
+                      - cell "Aug 19, 2026" [ref=e6570]
+                      - cell "Sep 18, 2026" [ref=e6573]
+                      - cell "Draft" [ref=e6576]
+                      - cell "0 of 1" [ref=e6579]
+                      - cell [ref=e6582]:
+                        - button [ref=e6584]
+                    - row [ref=e6587] [cursor=pointer]:
+                      - cell [ref=e6588]:
+                        - checkbox "Select row" [ref=e6589]
+                      - cell "C00183" [ref=e6590]
+                      - cell "CBITESTDP107" [ref=e6593]
+                      - cell "KESHEEN" [ref=e6595]
+                      - cell "Melinda Maria" [ref=e6597]
+                      - cell "Aug 11, 2026" [ref=e6599]
+                      - cell "Aug 12, 2026" [ref=e6602]
+                      - cell "Closed" [ref=e6605]
+                      - cell "14 of 15" [ref=e6608]
+                      - cell [ref=e6611]:
+                        - button [ref=e6613]
+                    - row [ref=e6616] [cursor=pointer]:
+                      - cell [ref=e6617]:
+                        - checkbox "Select row" [ref=e6618]
+                      - cell "C00182" [ref=e6619]
+                      - cell "CBITESTDP106" [ref=e6622]
+                      - cell "KESHEEN" [ref=e6624]
+                      - cell "Melinda Maria" [ref=e6626]
+                      - cell "Aug 11, 2026" [ref=e6628]
+                      - cell "-" [ref=e6631]
+                      - cell "Closed" [ref=e6633]
+                      - cell "17 of 15" [ref=e6636]
+                      - cell [ref=e6639]:
+                        - button [ref=e6641]
+                    - row [ref=e6644] [cursor=pointer]:
+                      - cell [ref=e6645]:
+                        - checkbox "Select row" [ref=e6646]
+                      - cell "C00181" [ref=e6647]
+                      - cell "CBITESTDP105" [ref=e6650]
+                      - cell "KESHEEN" [ref=e6652]
+                      - cell "Melinda Maria" [ref=e6654]
+                      - cell "Aug 10, 2026" [ref=e6656]
+                      - cell "-" [ref=e6659]
+                      - cell "Closed" [ref=e6661]
+                      - cell "13 of 16" [ref=e6664]
+                      - cell [ref=e6667]:
+                        - button [ref=e6669]
+                    - row [ref=e6672] [cursor=pointer]:
+                      - cell [ref=e6673]:
+                        - checkbox "Select row" [ref=e6674]
+                      - cell "C00180" [ref=e6675]
+                      - cell "CBITESTDP104" [ref=e6678]
+                      - cell "KESHEEN" [ref=e6680]
+                      - cell "Melinda Maria" [ref=e6682]
+                      - cell "Aug 10, 2026" [ref=e6684]
+                      - cell "-" [ref=e6687]
+                      - cell "Closed" [ref=e6689]
+                      - cell "17 of 12" [ref=e6692]
+                      - cell [ref=e6695]:
+                        - button [ref=e6697]
+                - generic [ref=e972]:
+                  - generic [ref=e973]: Showing 100 of 124 results
+                  - button "Next page" [ref=e6061] [cursor=pointer]
+          - generic [ref=e977] [cursor=pointer]: 👋 Hi there, I’m Connie!
+          - generic [ref=e980]:
+            - generic [ref=e985]:
+              - generic [ref=e987]:
+                - generic [ref=e988] [cursor=pointer]
+                - generic [ref=e991] [cursor=pointer]: CONNIE
+              - generic [ref=e995]:
+                - button [ref=e996] [cursor=pointer]
+                - button [ref=e1002] [cursor=pointer]
+                - button [ref=e1008] [cursor=pointer]
+                - button [ref=e1012] [cursor=pointer]
+                - button [ref=e1017] [cursor=pointer]
+            - generic [ref=e1022]:
+              - generic [ref=e1027]:
+                - generic [ref=e1028]:
+                  - generic [ref=e1031]: ASK CONNIE
+                  - generic [ref=e1032]: Quickly get data insights and better understand your e-commerce performance from your connected sources
+                - generic [ref=e1034]:
+                  - generic [ref=e1035]: AI Agents
+                  - generic [ref=e1039]: Buying Agent
+                  - generic [ref=e1044]: Analyst Agent
+              - generic [ref=e1049]:
+                - generic [ref=e1051]:
+                  - textbox "What do you want to know today?" [ref=e6062]
+                  - generic [ref=e1057] [cursor=pointer]
+                - generic [ref=e1062]: Answers are AI-generated. Please double-check important information.
+    - region "Notifications alt+T"
+  - alert [ref=e43]: Purchase Orders - Conative

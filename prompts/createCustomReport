@@ -1,0 +1,23 @@
+Pre-condition:
+1. Login success from conative-sign-in.spec.ts
+Steps:
+1. Hover on the 'Product Analytics' menu
+2. Click on the 'Product Performance' sub menu
+3. Verify that 'Product Performance' is display
+4. Click on the 'Products' Dropdown
+5. Select 'Variants' option
+5. Enter search keyword with 'N6435GWTCZ18'
+6. Verify that show all variants with SKU contains keyword is 'N6435GWTCZ18'
+7. Verify that 'Save as new view' button is display
+8. Click on the 'Save as new view' button
+9. Verify that 'Name new view' popup is display
+10. Enter 'CBI TEST DP 02'
+11. Click 'Save' button
+12. Verify that show message 'Saved new view.'
+13. Verify that 'CBI TEST DP 02' tab is selected
+14. Click on the 3 dot of 'CBI TEST DP 02' tab 
+15. Select 'Delete view' option
+16. Verify that show 'Delete view' popup
+17. Verify that show context 'Are you sure you want to delete "CBI TEST DP 02" view?'
+18. Click 'Delete' button
+19. Verify that show 'Successfully deleted CBI TEST DP 02' message

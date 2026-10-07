@@ -1,0 +1,78 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e10]:
+      - paragraph [ref=e47] [cursor=pointer]: Back
+      - paragraph [ref=e11]: Join the following Organizations
+      - paragraph [ref=e48]: d*******@******* is associated with accounts at the following organizations, select one to join.
+      - generic [ref=e49]:
+        - generic [ref=e50] [cursor=pointer]:
+          - paragraph [ref=e52]: R
+          - paragraph [ref=e54]: RITHUM DEV ORG
+        - generic [ref=e55] [cursor=pointer]:
+          - paragraph [ref=e57]: D
+          - paragraph [ref=e59]: DEV ORGANIZATION
+        - generic [ref=e60] [cursor=pointer]:
+          - paragraph [ref=e62]: H
+          - paragraph [ref=e64]: Honest Paws Clone
+        - generic [ref=e65] [cursor=pointer]:
+          - paragraph [ref=e67]: A
+          - paragraph [ref=e69]: Annmarie Clone
+        - generic [ref=e70] [cursor=pointer]:
+          - paragraph [ref=e72]: P
+          - paragraph [ref=e74]: Purely Optimal Clone
+        - generic [ref=e75] [cursor=pointer]:
+          - paragraph [ref=e77]: M
+          - paragraph [ref=e79]: Melinda Maria Clone
+        - generic [ref=e80] [cursor=pointer]:
+          - paragraph [ref=e82]: c
+          - paragraph [ref=e84]: conative
+        - generic [ref=e85] [cursor=pointer]:
+          - paragraph [ref=e87]: c
+          - paragraph [ref=e89]: conative_old_melinda
+        - generic [ref=e90] [cursor=pointer]:
+          - paragraph [ref=e92]: c
+          - paragraph [ref=e94]: conative_new_melinda
+        - generic [ref=e95] [cursor=pointer]:
+          - paragraph [ref=e97]: c
+          - paragraph [ref=e99]: conative_old_hp
+        - generic [ref=e100] [cursor=pointer]:
+          - paragraph [ref=e102]: c
+          - paragraph [ref=e104]: conative_new_hp
+        - generic [ref=e105] [cursor=pointer]:
+          - paragraph [ref=e107]: c
+          - paragraph [ref=e109]: conative_old_mizmooz
+        - generic [ref=e110] [cursor=pointer]:
+          - paragraph [ref=e112]: c
+          - paragraph [ref=e114]: conative_new_mizmooz
+        - generic [ref=e115] [cursor=pointer]:
+          - paragraph [ref=e117]: c
+          - paragraph [ref=e119]: conative_old_qalo
+        - generic [ref=e120] [cursor=pointer]:
+          - paragraph [ref=e122]: c
+          - paragraph [ref=e124]: conative_new_qalo
+        - generic [ref=e125] [cursor=pointer]:
+          - paragraph [ref=e127]: c
+          - paragraph [ref=e129]: conative_jazz
+        - generic [ref=e130] [cursor=pointer]:
+          - paragraph [ref=e132]: C
+          - paragraph [ref=e134]: Conative Dev Test
+        - generic [ref=e135] [cursor=pointer]:
+          - paragraph [ref=e137]: C
+          - paragraph [ref=e139]: CBItest
+        - generic [ref=e140] [cursor=pointer]:
+          - paragraph [ref=e142]: C
+          - paragraph [ref=e144]: Conative New Ann
+        - generic [ref=e145] [cursor=pointer]:
+          - paragraph [ref=e147]: c
+          - paragraph [ref=e149]: conative_jungmaven
+        - generic [ref=e150] [cursor=pointer]:
+          - paragraph [ref=e152]: C
+          - paragraph [ref=e154]: Conative Noli
+        - generic [ref=e155] [cursor=pointer]:
+          - paragraph [ref=e157]: c
+          - paragraph [ref=e159]: conative_noonday
+    - region "Notifications alt+T"
+  - alert [ref=e43]
+  - generic [ref=e161]:
+    - img "check-circle" [ref=e162]
+    - generic [ref=e165]: Sign in is successfully, Welcome to Conative!

@@ -1,0 +1,31 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e10]:
+      - paragraph [ref=e11]: Welcome to Conative
+      - generic [ref=e12]:
+        - generic [ref=e13]:
+          - generic [ref=e15]:
+            - paragraph [ref=e17]: Email
+            - textbox "Yourmail@gmail.com" [ref=e19]
+          - generic [ref=e22]:
+            - generic [ref=e23]:
+              - paragraph [ref=e24]: Password
+              - link "Forgot password?" [ref=e25] [cursor=pointer]:
+                - /url: /forgot-password
+            - generic [ref=e26]:
+              - textbox "••••••••••••" [ref=e27]
+              - generic [ref=e28] [cursor=pointer]
+        - generic [ref=e32]:
+          - button "Sign in" [disabled]
+        - generic [ref=e34]:
+          - checkbox [ref=e36] [cursor=pointer]
+          - paragraph [ref=e39]:
+            - text: By checking the box, you agree to our
+            - link "Terms of Service" [ref=e40] [cursor=pointer]:
+              - /url: https://www.conative.ai/terms-of-service
+            - text: and acknowledge that you have read the
+            - link "Privacy Policy" [ref=e41] [cursor=pointer]:
+              - /url: https://www.conative.ai/privacy-policy
+            - text: to learn how we collect, use and share your data.
+    - region "Notifications alt+T"
+  - alert [ref=e43]
